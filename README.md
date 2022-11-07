@@ -5,4 +5,4 @@ With some of us in the Microsoft Community creating accounts at Mastodon it's ge
 Name | Twitter | Mastodon | Counter.Social | Other
 ------- |------- | -------- | -------- | --------
 Tiago Costa | [@tiagocostapt](https://twitter.com/tiagocostapt)    | [@tiagocosta@mastodon.online](https://mastodon.online/@tiagocosta) | NA | NA
-
+Jeroen Burgerhout | [@BurgerhoutJ](https://twitter.com/BurgerhoutJ)    | [@BurgerhoutJ@mastodon.nl](https://mastodon.online/@BurgerhoutJ) | NA | NA
