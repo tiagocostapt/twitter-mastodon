@@ -4,4 +4,5 @@ With some of us in the Microsoft Community creating accounts at Mastodon it's ge
 
 Name | Twitter | Mastodon
 ------- |------- | --------
-Tiago Costa | @tiagocostapt    | @tiagocosta@mastodon.online  
+Tiago Costa | [@tiagocostapt](https://twitter.com/tiagocostapt)    | [@tiagocosta@mastodon.online](https://mastodon.online/@tiagocosta)
+
