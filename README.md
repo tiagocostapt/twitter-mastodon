@@ -9,3 +9,4 @@ Jeroen Burgerhout | [@BurgerhoutJ](https://twitter.com/BurgerhoutJ)    | [@Burge
 Abdul Kazi | [@abdulkazi](https://twitter.com/abdulkazi)    | [@abdulkazi@hachyderm.io](https://hachyderm.io/@abdulkazi) | NA | NA
 Luke Murray | [@lukemurraynz](https://twitter.com/lukemurraynz)    | [@lukemurray@aus.social](https://aus.social/@lukemurray) | NA | NA
 Rex de Koning | [@rexdekoning](https://twitter.com/rexdekoning) | [@rexdekoning@mastodon.nl](https://mastodon.nl/@rexdekoning) | NA | NA
+Andrew Taylor | [@andrewtaylor_2](https://twitter.com/AndrewTaylor_2) | [@super_admin@social.andrewstaylor.com](https://social.andrewstaylor.com/@super_admin) | NA | NA
