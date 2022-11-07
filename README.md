@@ -8,3 +8,4 @@ Tiago Costa | [@tiagocostapt](https://twitter.com/tiagocostapt)    | [@tiagocost
 Jeroen Burgerhout | [@BurgerhoutJ](https://twitter.com/BurgerhoutJ)    | [@BurgerhoutJ@mastodon.nl](https://mastodon.online/@BurgerhoutJ) | NA | NA
 Abdul Kazi | [@abdulkazi](https://twitter.com/abdulkazi)    | [@abdulkazi@hachyderm.io](https://hachyderm.io/@abdulkazi) | NA | NA
 Luke Murray | [@lukemurraynz](https://twitter.com/lukemurraynz)    | [@lukemurray@aus.social](https://aus.social/@lukemurray) | NA | NA
+Rex de Koning | [@rexdekoning](https://twitter.com/rexdekoning) | [@rexdekoning@mastodon.nl](https://mastodon.nl/@rexdekoning) | NA | NA
