@@ -4,7 +4,7 @@ With some of us in the Microsoft Community creating accounts at Mastodon it's ge
 
 Name | Twitter | Mastodon | Counter.Social | Other
 ------- |------- | -------- | -------- | --------
-Tiago Costa | [@tiagocostapt](https://twitter.com/tiagocostapt)    | [@tiagocosta@mastodon.online](https://mastodon.online/@tiagocosta) | NA | NA
+Tiago Costa | [@tiagocostapt](https://twitter.com/tiagocostapt)    | [@tiagocosta@mastodon.online](https://mastodon.online/@tiagocosta) | [@tiagocosta@counter.social](https://counter.social/@tiagocosta) | NA
 Jeroen Burgerhout | [@BurgerhoutJ](https://twitter.com/BurgerhoutJ)    | [@BurgerhoutJ@mastodon.nl](https://mastodon.online/@BurgerhoutJ) | NA | NA
 Abdul Kazi | [@abdulkazi](https://twitter.com/abdulkazi)    | [@abdulkazi@hachyderm.io](https://hachyderm.io/@abdulkazi) | NA | NA
 Luke Murray | [@lukemurraynz](https://twitter.com/lukemurraynz)    | [@lukemurray@aus.social](https://aus.social/@lukemurray) | NA | NA
